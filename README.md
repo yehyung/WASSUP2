@@ -14,10 +14,12 @@
 - MBTI: ENFP
 <br/>
 
-# 🗃What i've done
+# 🗃Experience
+- WASSUP AI 서비스 기획자 부트캠프 (2024.01~)
+- WE-IT 데이터 분석 동아리 (2023.07~08)
+- Costomer Service & Operation in YPLaps (2019. 01~03, 2023.03~)
+- Content Marketing Intern in YPLaps (2022.09~10)
 
-- Content Marketing Intern in YPLaps
-- Costomer Service & Operation in YPLaps
 <br/>
 
 # 💡What i'm Using
