@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yehyung%20Lee&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Yehyung%20Lee&fontSize=50)
 
 # WASSUP2
 이스트소프트 KDT WASSUP AI서비스기획과정 2기
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=30)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&fontSize=50)
