@@ -4,12 +4,18 @@
 이스트소프트 KDT WASSUP AI서비스기획과정 2기
 
 # 🙌Introduction
-안녕하세요! 저는 Product Manager가 되기 위해 좌충우돌하며 공부하고있습니다! 이 페이지는 Git과 Markdown을 연습하기 위해 만들어졌습니다.
+- 안녕하세요! 저는 Product Manager가 되기 위해 좌충우돌하며 공부하고있습니다!
+- 이 페이지는 Git과 Markdown을 연습하기 위해 만들어졌습니다.
+<br/>
+
+# 📌About Me
+- University: Hanyang Univ. ERICA
+- Major: Division of media, design and culture(ICT융합학부 미디어테크놀로지 전공)
+- MBTI: ENFP
 <br/>
 
 # 🗃What i've done
-- Graduated Hanyang Univ. ERICA
-- Major in division of media, design and culture(ICT융합학부 미디어테크놀로지 전공)
+
 - Content Marketing Intern in YPLaps
 - Costomer Service & Operation in YPLaps
 <br/>
@@ -27,4 +33,4 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&fontSize=30&fontcolor=#ece6cc)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=30&fontcolor=#ece6cc)
