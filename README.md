@@ -17,8 +17,11 @@
 # 🗃Experience
 - WASSUP AI 서비스 기획자 부트캠프 (2024.01~)
 - WE-IT 데이터 분석 동아리 (2023.07~08)
-- Costomer Service & Operation in YPLaps (2019. 01~03, 2023.03~)
-- Content Marketing Intern in YPLaps (2022.09~10)
+- Costomer Service & 서비스 운영 업무 in YPLaps (2019. 01~03, 2023.03~)
+- 콘텐츠 마케팅 인턴 in YPLaps (2022.09~10)
+- 창작극 연구회 살판,
+	- 회장 및 연극 기획, 총연출, 대본, 배우 등 (2021. 12 ~ 2022. 12)
+- 
 
 <br/>
 
