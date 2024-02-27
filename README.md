@@ -7,6 +7,7 @@
 안녕하세요! 저는 Product Manager가 되기 위해 좌충우돌하며 공부하고있습니다! 이 페이지는 Git과 Markup을 연습하기 위해 만들어졌습니다.
 
 
+# 🗃What i've done
 
 
 # 💡What i'm Using
