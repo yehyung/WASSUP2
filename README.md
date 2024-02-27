@@ -8,7 +8,10 @@
 <br/>
 
 # 🗃What i've done
-
+- Graduated Hanyang Univ. ERICA
+- Major in division of media, design and culture(ICT융합학부 미디어테크놀로지 전공)
+- Content Marketing Intern in YPLaps
+- Costomer Service & Operation in YPLaps
 <br/>
 
 # 💡What i'm Using
